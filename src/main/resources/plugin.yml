@@ -1,0 +1,4 @@
+name: TicTacToe
+version: '${project.version}'
+main: com.balz3.tictactoe.Main
+api-version: 1.18
